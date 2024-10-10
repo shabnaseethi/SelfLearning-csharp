@@ -1,0 +1,7 @@
+D:\C# Self Learning\repos\HelloWorldSample\bin\Debug\HelloWorldSample.exe.config
+D:\C# Self Learning\repos\HelloWorldSample\bin\Debug\HelloWorldSample.exe
+D:\C# Self Learning\repos\HelloWorldSample\bin\Debug\HelloWorldSample.pdb
+D:\C# Self Learning\repos\HelloWorldSample\obj\Debug\HelloWorldSample.csproj.AssemblyReference.cache
+D:\C# Self Learning\repos\HelloWorldSample\obj\Debug\HelloWorldSample.csproj.CoreCompileInputs.cache
+D:\C# Self Learning\repos\HelloWorldSample\obj\Debug\HelloWorldSample.exe
+D:\C# Self Learning\repos\HelloWorldSample\obj\Debug\HelloWorldSample.pdb
